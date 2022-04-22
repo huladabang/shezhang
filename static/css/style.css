@@ -165,18 +165,16 @@ header>nav .active i{
 	background: #fff;
 	border-radius: .2rem;
 }
-#banner li{
+#banner a{
 	width: 33%;
     height: 2.5rem;
 	align-items: center;
 	margin-right: 1.75%;
 	margin-top: 1.75%;
 	margin-bottom: 1.75%;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 500;
     color: #0a001f;
-    text-align: center;
-    list-style: none;
 }
 #banner li:first-child{
 	margin-left: 1.75%;
