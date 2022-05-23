@@ -579,14 +579,14 @@ table,th,tr,td{
 		}
 
 		.atar_Show{
-			background:url(/images/stark2.png);
+			background:url(https://cdn.jsdelivr.net/gh/huladabang/shezhang/static/);
 			width:160px; height:21px;
 			position:relative;
 			float:left;
 		}
 
 		.atar_Show p{
-			background:url(/images/stars2.png);
+			background:url(https://cdn.jsdelivr.net/gh/huladabang/shezhang/static//images/stars2.png);
 			left:0;
 			height:21px;
 			width:134px;
@@ -598,7 +598,7 @@ table,th,tr,td{
 		}
 
         .atar_Show2{
-			background:url(/images/starky.png);
+			background:url(https://cdn.jsdelivr.net/gh/huladabang/shezhang/static//images/starky.png);
 			width:80px; height:15px;
 			position:relative;
 			float:left;
@@ -606,7 +606,7 @@ table,th,tr,td{
 		}
 
 		.atar_Show2 p{
-			background:url(/images/starsy.png);
+			background:url(https://cdn.jsdelivr.net/gh/huladabang/shezhang/static//images/starsy.png);
 			left:0;
 			height:15px;
 			width:80px;
