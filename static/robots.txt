@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /blueprints/
+Sitemap: https://mao.fan/sitemap.txt

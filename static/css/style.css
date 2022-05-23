@@ -188,26 +188,6 @@ header>nav .active i{
 	cursor: pointer;
 }
 
-#pingfen{
-	width: 100%;
-	margin: 0 auto 2% auto;
-	display: flex;
-	background: #fff;
-	border-radius: .2rem;
-}
-#pingfen li{
-	width: 35%;
-	align-items: center;
-	margin-right: 1%;
-	margin-bottom: 1.75%;
-    font-size: 1.1rem;
-    color: #fefefe;
-    text-align: center;
-    list-style: none;
-}
-#pingfen span{
-    font-size: 1.1rem;
-}
 #posts{
 	width: 96%;
 	margin: 0 auto 2% auto;
@@ -590,3 +570,44 @@ table,th,tr,td{
     font-size: 13px;
     color: #999;
 }
+
+/*星星样式*/
+
+		.show_number{
+			padding-left:0.3rem;
+			padding-top:0.9rem;
+		}
+
+		.atar_Show{
+			background:url(/images/stark2.png);
+			width:160px; height:21px;
+			position:relative;
+			float:left;
+		}
+
+		.atar_Show p{
+			background:url(/images/stars2.png);
+			left:0;
+			height:21px;
+			width:134px;
+		}
+
+		.show_number li span{
+			display:inline-block;
+			line-height:21px;
+		}
+
+        .atar_Show2{
+			background:url(/images/starky.png);
+			width:80px; height:15px;
+			position:relative;
+			float:left;
+            margin-top: 4px;
+		}
+
+		.atar_Show2 p{
+			background:url(/images/starsy.png);
+			left:0;
+			height:15px;
+			width:80px;
+		}
